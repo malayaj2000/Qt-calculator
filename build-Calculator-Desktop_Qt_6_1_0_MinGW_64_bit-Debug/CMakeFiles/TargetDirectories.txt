@@ -1,0 +1,5 @@
+C:/Users/ASUS/Dropbox/My PC (LAPTOP-CIQTGKIT)/Desktop/QT/Calculator2/build-Calculator-Desktop_Qt_6_1_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Dropbox/My PC (LAPTOP-CIQTGKIT)/Desktop/QT/Calculator2/build-Calculator-Desktop_Qt_6_1_0_MinGW_64_bit-Debug/CMakeFiles/Calculator.dir
+C:/Users/ASUS/Dropbox/My PC (LAPTOP-CIQTGKIT)/Desktop/QT/Calculator2/build-Calculator-Desktop_Qt_6_1_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Dropbox/My PC (LAPTOP-CIQTGKIT)/Desktop/QT/Calculator2/build-Calculator-Desktop_Qt_6_1_0_MinGW_64_bit-Debug/CMakeFiles/Calculator_autogen_timestamp_deps.dir
+C:/Users/ASUS/Dropbox/My PC (LAPTOP-CIQTGKIT)/Desktop/QT/Calculator2/build-Calculator-Desktop_Qt_6_1_0_MinGW_64_bit-Debug/CMakeFiles/Calculator_autogen.dir
